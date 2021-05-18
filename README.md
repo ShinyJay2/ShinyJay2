@@ -1,11 +1,17 @@
-### Hi there 👋
+# Jaehoon Jang
+
+Hi, I'm currently a student at Hankuk University of Foreign Studies, interested in Data Science!<br><br>If you want to contact me, plz leave me a message https://www.instagram.com/shiny_jay2
+# Majoring:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;:computer: AI Convergence<br>
+&nbsp;&nbsp;&nbsp;&nbsp;:books: Political Science
+
 
 <!--
 **ShinyJay2/ShinyJay2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- #:pencil2: I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
