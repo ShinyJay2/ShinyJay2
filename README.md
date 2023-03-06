@@ -1,9 +1,10 @@
 # Jaehoon Jang
 
-Hi, I'm currently a student at Hankuk University of Foreign Studies, interested in Data Science!<br><br>If you want to contact me, plz leave me a message https://www.instagram.com/shiny_jay2
+Hi, I'm currently a student at Hankuk University of Foreign Studies, interested in Data Science!<br><br>
+I graduated from Hankuk University of Foreign Studies, majored in Political Science and Diplomacy & Department of AI<br><br>If you want to contact me, plz leave me a message https://www.instagram.com/shiny_jay2
 # Majoring:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;:computer: AI Convergence<br>
-&nbsp;&nbsp;&nbsp;&nbsp;:books: Political Science
+&nbsp;&nbsp;&nbsp;&nbsp;:computer: Department of AI<br>
+&nbsp;&nbsp;&nbsp;&nbsp;:books: Political Science and Diplomacy
 
 
 <!--
