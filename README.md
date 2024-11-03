@@ -23,18 +23,6 @@ I'm studying **Artificial Intelligence** at Korea University. I previously gradu
 
 ---
 
-## 📈 Weekly Coding Stats
-
-[![Jaehoon's Coding Stats](https://github-readme-productive-box.vercel.app/api/?username=ShinyJay2&theme=dark)](https://github.com/jstrieb/github-readme-streak-stats)
-
----
-
-### 📂 Pinned Projects
-
-<!-- Manually select these in GitHub's profile settings to make them appear like in the example image -->
-
----
-
 *Thank you for visiting my profile! Check out my projects to see my work in AI and deep learning.* ✨
 
 
