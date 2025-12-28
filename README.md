@@ -28,7 +28,7 @@
 
 <h2 align="center">🔍 Interests</h2>
 <p align="center">
-  - <strong>Explainable AI & Interpretability</strong> (SHAP, LIME, TCAV)<br/>
+  - <strong>Explainable AI & Interpretability</strong><br/>
   - <strong>Computer Vision</strong><br/>
   - <strong>Reinforcement Learning & Decision Making</strong><br/>
   - <strong>Ethical AI & Human Behavior Modeling</strong><br/>
